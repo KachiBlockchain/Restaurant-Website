@@ -21,13 +21,13 @@ import Avatar2 from '../src/assets/img/testimonial/avatar2.png';
 import Avatar3 from '../src/assets/img/testimonial/avatar3.png';
 
 export const navData = [
-  { href: 'https://kachitech.com.ng', name: 'home' },
-  { href: 'https://kachitech.com.ng', name: 'about' },
-  { href: 'https://kachitech.com.ng', name: 'menu' },
-  { href: 'https://kachitech.com.ng', name: 'team' },
-  { href: 'https://kachitech.com.ng', name: 'testimonials' },
-  { href: 'https://kachitech.com.ng', name: 'book a table' },
-  { href: 'https://kachitech.com.ng', name: 'contact' },
+  { href: '', name: 'home' },
+  { href: '', name: 'about' },
+  { href: '', name: 'menu' },
+  { href: '', name: 'team' },
+  { href: '', name: 'testimonials' },
+  { href: '', name: 'book a table' },
+  { href: '', name: 'contact' },
 ];
 
 export const heroData = {
@@ -39,11 +39,11 @@ export const heroData = {
 };
 
 export const socialData = [
-  { href: 'https://kachitech.com.ng', icon: <FaYoutube /> },
-  { href: 'https://kachitech.com.ng', icon: <FaFacebookF /> },
-  { href: 'https://kachitech.com.ng', icon: <FaInstagram /> },
-  { href: 'https://kachitech.com.ng', icon: <FaPinterestP /> },
-  { href: 'https://kachitech.com.ng', icon: <FaDiscord /> },
+  { href: '', icon: <FaYoutube /> },
+  { href: '', icon: <FaFacebookF /> },
+  { href: '', icon: <FaInstagram /> },
+  { href: '', icon: <FaPinterestP /> },
+  { href: '', icon: <FaDiscord /> },
 ];
 
 export const aboutData = {
@@ -165,11 +165,11 @@ export const footerData = {
   social: {
     title: 'social network',
     icons: [
-      { href: 'https://kachitech.com.ng', icon: <FaYoutube /> },
-      { href: 'https://kachitech.com.ng', icon: <FaFacebookF /> },
-      { href: 'https://kachitech.com.ng', icon: <FaInstagram /> },
-      { href: 'https://kachitech.com.ng', icon: <FaPinterestP /> },
-      { href: 'https://kachitech.com.ng', icon: <FaDiscord /> },
+      { href: '', icon: <FaYoutube /> },
+      { href: '', icon: <FaFacebookF /> },
+      { href: '', icon: <FaInstagram /> },
+      { href: '', icon: <FaPinterestP /> },
+      { href: '', icon: <FaDiscord /> },
     ],
   },
 };
