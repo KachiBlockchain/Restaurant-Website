@@ -5,7 +5,7 @@ const Copyright = () => {
     <div className="container mx-auto">
       <div className='py-6'>
         <p className="text-base text-center">
-          Copyright &copy; 2023 Bistro Cafe. All rights reserved. <b className='text-accent'>KACHI</b>
+          Copyright &copy; 2023 Bistro Cafe. All rights reserved - <a href="https://codecrafthub.tech" className='text-accent'> CodeCraftHub </a>
         </p>
       </div>
     </div>
