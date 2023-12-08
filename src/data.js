@@ -131,7 +131,7 @@ export const testimonialData = {
 export const reservationData = {
   title: 'booking form',
   subtitle:
-    'Call (800) 123-4567 from 5AM - 11PM daily, or book online with OpenTable.Reservations required for parties of 6 or more.',
+    'Call +1 (409) 916-8743 from 5AM - 11PM daily, or book online with OpenTable.Reservations required for parties of 6 or more.',
   modelImg: ModelBlackImg,
   btnText: 'make a reservation',
 };
@@ -147,7 +147,7 @@ export const footerData = {
   contact: {
     title: 'contact location',
     address: '3784 patterson road, #8 new york, CA 69000',
-    phone: '(201)256-3689',
+    phone: '+1 (409) 916-8743',
   },
   hours: {
     title: 'working hours',
